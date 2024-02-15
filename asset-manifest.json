@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactTestSoft/static/css/main.5d8f93ce.css",
+    "main.js": "/reactTestSoft/static/js/main.cbfa43d7.js",
+    "static/media/Rectangle 33.png": "/reactTestSoft/static/media/Rectangle 33.1ed73788aecf1bd3fbf8.png",
+    "static/media/Rectangle 33 (1).png": "/reactTestSoft/static/media/Rectangle 33 (1).46de1ed0c7f97a0d7fc4.png",
+    "static/media/Rectangle 33 (2).png": "/reactTestSoft/static/media/Rectangle 33 (2).af7f0b006894cadc698f.png",
+    "static/media/Rectangle 33 (3).png": "/reactTestSoft/static/media/Rectangle 33 (3).f8bda326f6570dfcf3b8.png",
+    "index.html": "/reactTestSoft/index.html",
+    "main.5d8f93ce.css.map": "/reactTestSoft/static/css/main.5d8f93ce.css.map",
+    "main.cbfa43d7.js.map": "/reactTestSoft/static/js/main.cbfa43d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8f93ce.css",
+    "static/js/main.cbfa43d7.js"
+  ]
+}
